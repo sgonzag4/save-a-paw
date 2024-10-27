@@ -99,3 +99,19 @@ footer {
     padding: 10px 0;
     background-color:pink
 }
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.gallery figure {
+    margin: 10px;
+    text-align: center;
+}
+
+.gallery img {
+    width: 200px;
+    height: auto;
+    border-radius: 8px;
+}
