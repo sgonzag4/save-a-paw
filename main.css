@@ -5,7 +5,7 @@ body {
         url('images/petcollage.jpg') no-repeat center center fixed,
         linear-gradient(106.5deg, rgba(255, 215, 185, 0.91) 23%, rgba(233, 159, 247, 0.8) 93%);
     background-size: cover; 
-    color: white; 
+    color: black; 
 }
 
 header {
